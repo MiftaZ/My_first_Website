@@ -1,0 +1,20 @@
+function addViewTracker(browser,version,auctionID)	{
+
+	var iframe = document.createElement("iframe");
+	iframe.id = "iframe";
+	iframe.frameBorder = "0";
+	iframe.scrolling = "no";
+	iframe.src ="about:blank";
+ 	iframe.style.width = "1px";
+ 	iframe.style.height = "1px";
+ 	iframe.style.position = "absolute";
+ 	iframe.style.top = "50%";
+ 	iframe.style.left = "50%";
+ 	iframe.style.zIndex = "-9999";
+
+	document.getElementById("container").appendChild(iframe);
+ 	var doc = document.getElementById('iframe').contentWindow.document;
+	doc.open();
+	doc.write('<html> <head> <script src="//cdn.rvty.net/_files/js/jquery-1.10.2.min.js"></script> </head> <body> </body> <script> var browser = "'+browser+'"; var version = "'+version+'"; var auctionID = "'+auctionID+'"; var lastTime = 0; var counter = 0; var delay = 0; var frames = 0; var seconds = 0; var current_id = 0; var interval = 0; var interval_counter = 0; var timerVar = 0; var totalSeconds = 0; var rect = 0; var html = null; var inactivity_counter = 0; var topaccess = false; var viewSent = false; function checkViewport(element) { rect = element.getBoundingClientRect(); html = window.top.document.documentElement; return (rect.top >= 0 && rect.left >= 0 && rect.bottom <= (window.top.innerHeight || html.clientHeight) && rect.right <= (window.top.innerWidth || html.clientWidth)); } function accessToTop() { try { top.document; topaccess = true; } catch(e) { topaccess = false; } } accessToTop(); function loop(time) { delay = time - lastTime; frames = 1000 / delay; seconds = delay / 1000; if(counter <= 600) { if (frames > 5) { if (topaccess) { if (inactivity_counter <= 60) { if (top.document.hasFocus()) { if (checkViewport(parent.document.getElementById("iframe"))) { counter += seconds; interval_counter += seconds; } } inactivity_counter += seconds; } } else { counter += seconds; interval_counter += seconds; } if (counter <= 5) { interval = 0.5; } else if (counter > 5 && counter <= 30) { interval = 3; } else if (counter > 30 && counter <= 60) { interval = 5; } else { interval = 10; } if (interval_counter >= interval) { sendCounter(); interval_counter = 0; } } requestAnimationFrame(loop); lastTime = time; } } if (browser == "Edge" && version >= 15 || browser == "Edge Mobile" && version >= 15 || browser == "Chrome" && version >= 52 || browser == "Chrome" && version == 0 || browser == "Firefox" && version >= 40 || browser == "Firefox" && version == 0 || browser == "Opera" && version >= 39 || browser == "Safari" && version >= 9 || browser == "Mobile Safari UIWebView" && version >= 9 || browser == "iOS" && version >= 9 || browser == "Samsung Browser" || browser == "Android WebView" || topaccess) { sendCounter(); requestAnimationFrame(loop); if (topaccess) { top.window.addEventListener("mousemove", function() { inactivity_counter = 0; }); top.window.addEventListener("scroll", function() { inactivity_counter = 0; }); } } else { sendUnknown(); /* viewSent = true; */ } function sendUnknown() { $.ajax({ type : "POST", url : "//brain.rvty.net/RTB/Visibility", data : { counter : "0", auctionId : auctionID, trackable : "0" }, success : function(data) { } }); } function sendCounter() { $.ajax({ type : "POST", url : "//brain.rvty.net/RTB/Visibility", data : { counter : interval_counter, auctionId : auctionID, trackable : "1" }, success : function(data) { } }); } </script> </html>');
+	doc.close();
+}
