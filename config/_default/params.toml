@@ -44,7 +44,7 @@ local_business_type = ""
 org_name = "Justice for people"
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = "This site is to publish the current human right abuses by the government in Ethiopia"
+description = "We are promoting freedom by disputing human right abuses particularly in Ethiopia"
 
 ############################
 ## Site Features
