@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories | CareTahu</title>
+    <link>/de/categories/</link>
+      <atom:link href="/de/categories/index.xml" rel="self" type="application/rss+xml" />
+    <description>Categories</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><copyright>licensed to mifta Zeynu</copyright>
+    <image>
+      <url>/img/Sengine</url>
+      <title>Categories</title>
+      <link>/de/categories/</link>
+    </image>
+    
+  </channel>
+</rss>
