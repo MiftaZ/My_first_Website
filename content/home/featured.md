@@ -62,3 +62,6 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+</p>How people in Gurage make and keep peace with in the society using their own counsil 'YEJOKA SHENGO' (the sebatbet counsil) without any involvement of government:- by Mesfin Mulugeta.</p>  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3O_VF_vYSzU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
+<p/>In the next session we will come up with a review to find out if this remarkable council is still practical or not.<p/>

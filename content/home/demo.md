@@ -8,8 +8,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 15  # Order that this section will appear.
 
-title = "CareTahu"
-subtitle = '<h2>Welcome to CareTahu page</h2> <p>Keep calm and browse it! <img src="/img/thumbs_up.gif"/></p>'
+title = "Careዘንጎ"
+subtitle = '<h2>Welcome to Careዘንጎ page</h2> <p>Keep calm and browse it! <img src="/img/thumbs_up.gif"/></p>'
 # color = "red" 
  
 [design]
