@@ -65,3 +65,6 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+**The Ethiopian new law about banning social media.**
+</p>The Ethiopian government named it ‘a law banning online hate speech’. Is it really banning hate speech or banning social media? Does the hate speech in Ethiopia really started from social media? It is funny that the government knows some of the people and activists intensifying hate speech practically in the country and he is taking any action, but new law is implemented to ban social media. The following link directs to audio which is discussed about the issue by bbc.
+https://www.bbc.co.uk/programmes/w3csy67n</p>
