@@ -25,9 +25,11 @@ subtitle = ""
 
 **Still no one knows Were our Students are**<img src="/img/Kidnaped.jpg"/> 
 
-Families are complaining and crying but we are keeping silent, as presented by ‘ASRAT media’ families of kidnaped students are asking the government if they can help him by any means to find where their students are.  
+Families are complaining and crying but every one keeping silent, as presented by ‘ASRAT media’ families of kidnaped students are asking the government if they can help him by any means to find where their students are.  
 
 
 https://www.youtube.com/watch?v=2tA0uq04gG0&feature=youtu.be&fbclid=IwAR1QcD4LfPPSbnkOd-D6pjKeC1aEHU_lA9TDCPIFab8MRgxaHF74gvoOnd8
 
 
+
+    

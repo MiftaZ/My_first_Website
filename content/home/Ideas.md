@@ -74,3 +74,11 @@ subtitle = ""
  # CSS class.
  css_class = "" 
 +++
+
+**Articles reviewing the outbreak of Covid 19 in the Geoinformatics perspective**
+
+https://ij-healthgeographics.biomedcentral.com/articles/10.1186/s12942-020-00202-8
+
+ESRI-based geomap dashboard tracking the global cases of COVID-19.
+https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html?fbclid=IwAR1sCfljRjKsmHjsU1HZ3asHuplwuXr23UutTOnXGcjG24FcT-1OJ4hhhBo#/bda7594740fd40299423467b48e9ecf6
+
