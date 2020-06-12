@@ -5,12 +5,44 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Licensed to Careዘንጎ</copyright>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>@Careዘንጎ</copyright><lastBuildDate>Fri, 12 Jun 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/Sengine</url>
+      <url>/img/%20</url>
       <title>Authors</title>
       <link>/authors/</link>
     </image>
+    
+    <item>
+      <title>Careዘንጎ</title>
+      <link>/authors/care%E1%8B%98%E1%8A%95%E1%8C%8E/</link>
+      <pubDate>Fri, 12 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/care%E1%8B%98%E1%8A%95%E1%8C%8E/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reuters</title>
+      <link>/authors/reuters/</link>
+      <pubDate>Fri, 08 May 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/reuters/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Amnesty International UK.		Press releases</title>
+      <link>/authors/amnesty-international-uk.-press-releases/</link>
+      <pubDate>Wed, 11 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/amnesty-international-uk.-press-releases/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>United States Department of State • Bureau of Democracy, Human Rights and Labor</title>
+      <link>/authors/united-states-department-of-state-bureau-of-democracy-human-rights-and-labor/</link>
+      <pubDate>Wed, 11 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/united-states-department-of-state-bureau-of-democracy-human-rights-and-labor/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title></title>

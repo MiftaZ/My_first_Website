@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>D. Brookshire | Careዘንጎ</title>
+    <link>/authors/d.-brookshire/</link>
+      <atom:link href="/authors/d.-brookshire/index.xml" rel="self" type="application/rss+xml" />
+    <description>D. Brookshire</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Licensed to Careዘንጎ</copyright><lastBuildDate>Tue, 01 Jan 2013 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/%20</url>
+      <title>D. Brookshire</title>
+      <link>/authors/d.-brookshire/</link>
+    </image>
+    
+    <item>
+      <title>Planning for Seven Generations: Energy Planning of American Indian Tribes</title>
+      <link>/publication/brookshire_2013bs/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/brookshire_2013bs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sustaining the Seventh Generation: Strategic Energy Planning of American Indian Tribes</title>
+      <link>/publication/brookshire_dk/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/brookshire_dk/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

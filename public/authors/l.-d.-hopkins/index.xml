@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>L. D. Hopkins | Careዘንጎ</title>
+    <link>/authors/l.-d.-hopkins/</link>
+      <atom:link href="/authors/l.-d.-hopkins/index.xml" rel="self" type="application/rss+xml" />
+    <description>L. D. Hopkins</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Licensed to Careዘንጎ</copyright><lastBuildDate>Sat, 01 Jan 2005 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/%20</url>
+      <title>L. D. Hopkins</title>
+      <link>/authors/l.-d.-hopkins/</link>
+    </image>
+    
+    <item>
+      <title>A Data Model to Incorporate Plans and Regulations in Urban Simulation Models</title>
+      <link>/publication/hopkins_data_2005/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>/publication/hopkins_data_2005/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Representing Urban Development Plans and Regulations as Data: A Planning Data Model</title>
+      <link>/publication/hopkins_representing_2005/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>/publication/hopkins_representing_2005/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shared Data Model for Describing Plans and Regulations as Inputs to Simulation Models of Urban Development</title>
+      <link>/publication/hopkins_shared_2003-1/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      <guid>/publication/hopkins_shared_2003-1/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

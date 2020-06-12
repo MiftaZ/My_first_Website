@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>J. McCarty | Careዘንጎ</title>
+    <link>/authors/j.-mccarty/</link>
+      <atom:link href="/authors/j.-mccarty/index.xml" rel="self" type="application/rss+xml" />
+    <description>J. McCarty</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Licensed to Careዘንጎ</copyright><lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/%20</url>
+      <title>J. McCarty</title>
+      <link>/authors/j.-mccarty/</link>
+    </image>
+    
+    <item>
+      <title>Urban Form and Air Quality</title>
+      <link>/publication/kaza_wp_yo/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/kaza_wp_yo/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

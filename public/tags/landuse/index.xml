@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>landuse | Careዘንጎ</title>
+    <link>/tags/landuse/</link>
+      <atom:link href="/tags/landuse/index.xml" rel="self" type="application/rss+xml" />
+    <description>landuse</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Licensed to Careዘንጎ</copyright><lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/%20</url>
+      <title>landuse</title>
+      <link>/tags/landuse/</link>
+    </image>
+    
+    <item>
+      <title>Time Dependent Accessibility</title>
+      <link>/publication/kaza_tda/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/kaza_tda/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Land Use Energy Connection</title>
+      <link>/publication/kaza_2013fv/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/kaza_2013fv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Making Room for Manufacturing: Understanding Industrial Land Conversion in Cities</title>
+      <link>/publication/lester_wp_jo/</link>
+      <pubDate>Sun, 01 Sep 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/lester_wp_jo/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>D. Rodriguez | Careዘንጎ</title>
+    <link>/authors/d.-rodriguez/</link>
+      <atom:link href="/authors/d.-rodriguez/index.xml" rel="self" type="application/rss+xml" />
+    <description>D. Rodriguez</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Licensed to Careዘንጎ</copyright><lastBuildDate>Tue, 01 Jan 2013 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/%20</url>
+      <title>D. Rodriguez</title>
+      <link>/authors/d.-rodriguez/</link>
+    </image>
+    
+    <item>
+      <title>The spatio-temporal clustering of green buildings in the US</title>
+      <link>/publication/kaza_2013uq/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/kaza_2013uq/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

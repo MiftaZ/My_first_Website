@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>J. Calder&#39;on | Careዘንጎ</title>
+    <link>/authors/j.-calderon/</link>
+      <atom:link href="/authors/j.-calderon/index.xml" rel="self" type="application/rss+xml" />
+    <description>J. Calder&#39;on</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Licensed to Careዘንጎ</copyright><lastBuildDate>Sun, 01 Jan 2006 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/%20</url>
+      <title>J. Calder&#39;on</title>
+      <link>/authors/j.-calderon/</link>
+    </image>
+    
+    <item>
+      <title>Games on Evolving Networks</title>
+      <link>/publication/calderon_gamesevolving_2006/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>/publication/calderon_gamesevolving_2006/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

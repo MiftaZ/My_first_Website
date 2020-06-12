@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>equity | Careዘንጎ</title>
+    <link>/tags/equity/</link>
+      <atom:link href="/tags/equity/index.xml" rel="self" type="application/rss+xml" />
+    <description>equity</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Licensed to Careዘንጎ</copyright><lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/%20</url>
+      <title>equity</title>
+      <link>/tags/equity/</link>
+    </image>
+    
+    <item>
+      <title>Time Dependent Accessibility</title>
+      <link>/publication/kaza_tda/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/kaza_tda/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Splintered Metropolitan Opportunity in the United States? Re-Examining the Mismatch between Emerging Employment Centers and Distressed Neighborhoods</title>
+      <link>/publication/lesterkazamcadam_2018/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/publication/lesterkazamcadam_2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

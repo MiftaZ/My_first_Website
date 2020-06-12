@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>R. Burghardt | Careዘንጎ</title>
+    <link>/authors/r.-burghardt/</link>
+      <atom:link href="/authors/r.-burghardt/index.xml" rel="self" type="application/rss+xml" />
+    <description>R. Burghardt</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Licensed to Careዘንጎ</copyright>
+    <image>
+      <url>/img/%20</url>
+      <title>R. Burghardt</title>
+      <link>/authors/r.-burghardt/</link>
+    </image>
+    
+    <item>
+      <title>Explaining spatial variations in residential energy usage intensity in Chicago: The role of urban form and geomorphometry</title>
+      <link>/publication/li_2018/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/publication/li_2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

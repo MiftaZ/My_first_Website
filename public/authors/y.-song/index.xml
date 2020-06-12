@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Y. Song | Careዘንጎ</title>
+    <link>/authors/y.-song/</link>
+      <atom:link href="/authors/y.-song/index.xml" rel="self" type="application/rss+xml" />
+    <description>Y. Song</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Licensed to Careዘንጎ</copyright><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/%20</url>
+      <title>Y. Song</title>
+      <link>/authors/y.-song/</link>
+    </image>
+    
+    <item>
+      <title>Urban form and household electricity consumption: A multilevel study</title>
+      <link>/publication/li_2017/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/li_2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Explaining spatial variations in residential energy usage intensity in Chicago: The role of urban form and geomorphometry</title>
+      <link>/publication/li_2018/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/publication/li_2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>energy-policy | Careዘንጎ</title>
+    <link>/tags/energy-policy/</link>
+      <atom:link href="/tags/energy-policy/index.xml" rel="self" type="application/rss+xml" />
+    <description>energy-policy</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Licensed to Careዘንጎ</copyright><lastBuildDate>Tue, 01 Jan 2013 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/%20</url>
+      <title>energy-policy</title>
+      <link>/tags/energy-policy/</link>
+    </image>
+    
+    <item>
+      <title>Planning for Seven Generations: Energy Planning of American Indian Tribes</title>
+      <link>/publication/brookshire_2013bs/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/brookshire_2013bs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robust Plans and Contingent Plans: Scenario Planning for an Uncertain World</title>
+      <link>/publication/chakraborty_2011lr/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/chakraborty_2011lr/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

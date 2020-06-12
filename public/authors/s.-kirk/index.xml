@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>S. Kirk | Careዘንጎ</title>
+    <link>/authors/s.-kirk/</link>
+      <atom:link href="/authors/s.-kirk/index.xml" rel="self" type="application/rss+xml" />
+    <description>S. Kirk</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Licensed to Careዘንጎ</copyright><lastBuildDate>Sun, 01 Sep 2013 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/%20</url>
+      <title>S. Kirk</title>
+      <link>/authors/s.-kirk/</link>
+    </image>
+    
+    <item>
+      <title>Making Room for Manufacturing: Understanding Industrial Land Conversion in Cities</title>
+      <link>/publication/lester_wp_jo/</link>
+      <pubDate>Sun, 01 Sep 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/lester_wp_jo/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>theory | Careዘንጎ</title>
+    <link>/tags/theory/</link>
+      <atom:link href="/tags/theory/index.xml" rel="self" type="application/rss+xml" />
+    <description>theory</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Licensed to Careዘንጎ</copyright><lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/%20</url>
+      <title>theory</title>
+      <link>/tags/theory/</link>
+    </image>
+    
+    <item>
+      <title>Radical Uncertainty: Scenario planning for futures</title>
+      <link>/publication/zapata_dz/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/zapata_dz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Persons, Polities and Planning</title>
+      <link>/publication/kaza_2013fk/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/kaza_2013fk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Principles of Planning for Economists</title>
+      <link>/publication/kaza_knaap_2011/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/kaza_knaap_2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>In What Circumstances Should Plans Be Public?</title>
+      <link>/publication/kaza_2009fk/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/kaza_2009fk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tyranny of the Median: A reflection on the participatory urban processes</title>
+      <link>/publication/kaza_2006oq/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>/publication/kaza_2006oq/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vain Foresight: Against the Idea of Implementation in Planning</title>
+      <link>/publication/kaza_vainforesight/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/publication/kaza_vainforesight/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

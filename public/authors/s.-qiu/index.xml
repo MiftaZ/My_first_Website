@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>S. Qiu | Careዘንጎ</title>
+    <link>/authors/s.-qiu/</link>
+      <atom:link href="/authors/s.-qiu/index.xml" rel="self" type="application/rss+xml" />
+    <description>S. Qiu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Licensed to Careዘንጎ</copyright><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/%20</url>
+      <title>S. Qiu</title>
+      <link>/authors/s.-qiu/</link>
+    </image>
+    
+    <item>
+      <title>Evaluating the impacts of the clean cities program</title>
+      <link>/publication/qiu_2017jk/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/qiu_2017jk/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

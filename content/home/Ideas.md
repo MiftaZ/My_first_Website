@@ -73,6 +73,7 @@ subtitle = ""
  
  # CSS class.
  css_class = "" 
+ 
 +++
 
 **Articles reviewing the outbreak of Covid 19 in the Geoinformatics perspective**

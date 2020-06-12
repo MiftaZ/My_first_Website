@@ -5,12 +5,22 @@
     <link>/talk/</link>
       <atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Licensed to Careዘንጎ</copyright>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>@Careዘንጎ</copyright><lastBuildDate>Fri, 12 Jun 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/Sengine</url>
+      <url>/img/%20</url>
       <title>Recent &amp; Upcoming Talks</title>
       <link>/talk/</link>
     </image>
+    
+    <item>
+      <title>ጉራጌ ክልል</title>
+      <link>/talk/guraghe-region/</link>
+      <pubDate>Fri, 12 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/talk/guraghe-region/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;/img/GurageKilil.jpg&#34;/&gt;    &lt;img src=&#34;/img/Gkilil.jpg&#34;/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/img/kilil.jpg&#34;/&gt;    &lt;img src=&#34;/img/Animated_flag.gif&#34;/&gt;&lt;/p&gt;
+</description>
+    </item>
     
   </channel>
 </rss>

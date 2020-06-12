@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>R. Lewis | Careዘንጎ</title>
+    <link>/authors/r.-lewis/</link>
+      <atom:link href="/authors/r.-lewis/index.xml" rel="self" type="application/rss+xml" />
+    <description>R. Lewis</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Licensed to Careዘንጎ</copyright><lastBuildDate>Sat, 01 Jan 2011 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/%20</url>
+      <title>R. Lewis</title>
+      <link>/authors/r.-lewis/</link>
+    </image>
+    
+    <item>
+      <title>Peak Oil, Urban Form and Public Health: Exploring the Connections</title>
+      <link>/publication/kaza_2011dq/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/kaza_2011dq/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Density and Public Health: It is not that simple</title>
+      <link>/publication/knaap_pt/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/knaap_pt/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

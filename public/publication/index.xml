@@ -5,12 +5,28 @@
     <link>/publication/</link>
       <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Licensed to Careዘንጎ</copyright>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>@Careዘንጎ</copyright><lastBuildDate>Fri, 01 Nov 2019 00:00:00 +0100</lastBuildDate>
     <image>
-      <url>/img/Sengine</url>
+      <url>/img/%20</url>
       <title>Publications</title>
       <link>/publication/</link>
     </image>
+    
+    <item>
+      <title>ETHIOPIA 2019 HUMAN RIGHTS REPORT</title>
+      <link>/publication/human_right_2019/</link>
+      <pubDate>Wed, 11 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/human_right_2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ethiopia: Security forces &#39;must face justice for horrific human rights violations&#39; - New Report ==&gt;&gt; Amnesty International 29/05/20</title>
+      <link>/publication/human_right_press_releases/</link>
+      <pubDate>Wed, 11 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/human_right_press_releases/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
