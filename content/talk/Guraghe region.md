@@ -22,7 +22,7 @@ url_custom = [{name = "wp-content", url = "https://www.state.gov/reports/2019-co
 image_preview = ""
 selected = true
 projects = []
-tags= ["Gurage region/ጉራጌ ክልላዊ መንግስት"]
+tags= ["Gurage region"]
 math = true
 highlight = true
 [header]
