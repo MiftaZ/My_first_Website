@@ -1,5 +1,5 @@
 [build]
-  command = "CI= npm run build"
+  command = "CI= build"
   publish = "public"
 
 [build.environment]
