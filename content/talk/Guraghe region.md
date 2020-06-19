@@ -35,3 +35,7 @@ caption = ""
 
 
 <img src="/img/kilil.jpg"/>  &nbsp; <img src="/img/Animated_flag.gif"/>
+
+**አለም አቀፍ የጉራጌ ተወላጅ ማህበረሰብ ተወካዮች የጉራጌ ማህበረሰብ ራስን በራስ የማስተዳደር ህገመንግስታዊ ጥያቄና ለጠ/ሚ ስለተጻፈው ደብዳቤ ዝርዝር ሁኔታዎችን ለኢሳት አስረዱ**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7iRXp7oqZ_s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
