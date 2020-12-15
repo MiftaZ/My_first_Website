@@ -15,7 +15,7 @@ url_project = ""
 url_slides = ""
 url_video = ""
 url_poster = ""
-url_source = ""
+url_source = "https://www.amnesty.org.uk/press-releases/ethiopia-security-forces-must-face-justice-horrific-human-rights-violations-new"
 
 url_custom = [{name = "wp-content", url = "https://www.amnesty.org.uk/press-releases/ethiopia-security-forces-must-face-justice-horrific-human-rights-violations-new"}]
 

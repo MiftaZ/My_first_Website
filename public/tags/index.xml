@@ -1,30 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags | Careዘንጎ</title>
+    <title>Popular Topics | Careዘንጎ</title>
     <link>/tags/</link>
       <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
-    <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>@Careዘንጎ</copyright><lastBuildDate>Fri, 12 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <description>Popular Topics</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>@Careዘንጎ</copyright><lastBuildDate>Tue, 30 Jun 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/%20</url>
-      <title>Tags</title>
+      <title>Popular Topics</title>
       <link>/tags/</link>
     </image>
+    
+    <item>
+      <title>News</title>
+      <link>/tags/news/</link>
+      <pubDate>Tue, 30 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/tags/news/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Gurage region</title>
       <link>/tags/gurage-region/</link>
       <pubDate>Fri, 12 Jun 2020 00:00:00 +0000</pubDate>
       <guid>/tags/gurage-region/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>News</title>
-      <link>/tags/news/</link>
-      <pubDate>Fri, 08 May 2020 00:00:00 +0000</pubDate>
-      <guid>/tags/news/</guid>
       <description></description>
     </item>
     
