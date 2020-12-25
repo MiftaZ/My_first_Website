@@ -5,12 +5,20 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>@Careዘንጎ</copyright><lastBuildDate>Tue, 30 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>@Careዘንጎ</copyright><lastBuildDate>Fri, 25 Dec 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/%20</url>
       <title>Authors</title>
       <link>/authors/</link>
     </image>
+    
+    <item>
+      <title>ኬርዘንጎ</title>
+      <link>/authors/%E1%8A%AC%E1%88%AD%E1%8B%98%E1%8A%95%E1%8C%8E/</link>
+      <pubDate>Fri, 25 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/%E1%8A%AC%E1%88%AD%E1%8B%98%E1%8A%95%E1%8C%8E/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>CareZengo</title>

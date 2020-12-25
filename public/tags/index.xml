@@ -5,7 +5,7 @@
     <link>/tags/</link>
       <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Popular Topics</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>@Careዘንጎ</copyright><lastBuildDate>Tue, 30 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>@Careዘንጎ</copyright><lastBuildDate>Fri, 25 Dec 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/%20</url>
       <title>Popular Topics</title>
@@ -15,7 +15,7 @@
     <item>
       <title>News</title>
       <link>/tags/news/</link>
-      <pubDate>Tue, 30 Jun 2020 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 25 Dec 2020 00:00:00 +0000</pubDate>
       <guid>/tags/news/</guid>
       <description></description>
     </item>
