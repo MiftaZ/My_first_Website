@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories | CareTahu</title>
+    <title>Categories | Careዘንጎ</title>
     <link>/de/categories/</link>
       <atom:link href="/de/categories/index.xml" rel="self" type="application/rss+xml" />
     <description>Categories</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><copyright>licensed to mifta Zeynu</copyright>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>de</language><copyright>@Careዘንጎ</copyright>
     <image>
-      <url>/img/Sengine</url>
+      <url>/img/%20</url>
       <title>Categories</title>
       <link>/de/categories/</link>
     </image>

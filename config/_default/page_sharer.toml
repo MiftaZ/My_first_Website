@@ -62,7 +62,7 @@
   icon_pack = "fab"
   icon = "reddit-alien"
   enable = false
-  baseurl = "https://carezengo.com/"
+ # baseurl = "https://carezengo.com/"
 
 [[buttons]]
   id = "pinterest"

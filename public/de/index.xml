@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>CareTahu</title>
+    <title>Careዘንጎ</title>
     <link>/de/</link>
       <atom:link href="/de/index.xml" rel="self" type="application/rss+xml" />
-    <description>CareTahu</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><copyright>licensed to mifta Zeynu</copyright>
+    <description>Careዘንጎ</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>de</language><copyright>@Careዘንጎ</copyright>
     <image>
-      <url>/img/Sengine</url>
-      <title>CareTahu</title>
+      <url>/img/%20</url>
+      <title>Careዘንጎ</title>
       <link>/de/</link>
     </image>
     

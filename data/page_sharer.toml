@@ -3,12 +3,12 @@
 
 [[buttons]]
   id = "twitter"
-  url = "https://twitter.com/intent/tweet?url= http://127.0.0.1:4321/#Ideas/{url}&text={title}"
+  url = "https://twitter.com/intent/tweet?url={url}&text={title}"
   title = "Twitter"
   icon_pack = "fab"
   icon = "twitter"
   enable = true
-  baseurl = "https://carezengo.com/"
+  #baseurl = "https://carezengo.com/"
 
 [[buttons]]
   id = "facebook"
@@ -17,7 +17,7 @@
   icon_pack = "fab"
   icon = "facebook"
   enable = true
-  baseurl = "https://carezengo.com/"
+  #baseurl = "https://carezengo.com/"
 
 [[buttons]]
   id = "email"
@@ -26,7 +26,7 @@
   icon_pack = "fas"
   icon = "envelope"
   enable = true
-  baseurl = "https://carezengo.com/"
+  #baseurl = "https://carezengo.com/"
 
 [[buttons]]
   id = "linkedin"
@@ -35,7 +35,7 @@
   icon_pack = "fab"
   icon = "linkedin-in"
   enable = true
-  baseurl = "https://carezengo.com/"
+ # baseurl = "https://carezengo.com/"
 
 [[buttons]]
   id = "whatsapp"
@@ -44,7 +44,7 @@
   icon_pack = "fab"
   icon = "whatsapp"
   enable = true
-  baseurl = "https://carezengo.com/"
+ # baseurl = "https://carezengo.com/"
 
 [[buttons]]
   id = "weibo"
@@ -53,7 +53,7 @@
   icon_pack = "fab"
   icon = "weibo"
   enable = true
-  baseurl = "https://carezengo.com/"
+ # baseurl = "https://carezengo.com/"
 
 [[buttons]]
   id = "reddit"
@@ -62,6 +62,7 @@
   icon_pack = "fab"
   icon = "reddit-alien"
   enable = false
+ # baseurl = "https://carezengo.com/"
 
 [[buttons]]
   id = "pinterest"
@@ -70,7 +71,7 @@
   icon_pack = "fab"
   icon = "pinterest"
   enable = false
-  baseurl = "https://carezengo.com/"
+  #baseurl = "https://carezengo.com/"
 
 [[buttons]]
   id = "xing"
@@ -79,7 +80,7 @@
   icon_pack = "fab"
   icon = "xing"
   enable = false
-  baseurl = "https://carezengo.com/"
+ # baseurl = "https://carezengo.com/"
 
 [[buttons]]
   id = "tumblr"
@@ -88,4 +89,4 @@
   icon_pack = "fab"
   icon = "tumblr"
   enable = false
-  baseurl = "https://carezengo.com/"
+ # baseurl = "https://carezengo.com/"
