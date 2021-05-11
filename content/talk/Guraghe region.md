@@ -27,7 +27,7 @@ math = true
 highlight = true
 [header]
 image = "Zerma.jpg"
-caption = ""
+caption = "Together we are strong"
 +++
 
  <img src="/img/GurageKilil.jpg"/> &nbsp;  <img src="/img/Gkilil.jpg"/>
